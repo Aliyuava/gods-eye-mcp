@@ -1,0 +1,14 @@
+﻿{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/mcp.schema.json",
+  "mcpServers": {
+    "gods-eye-solana-audit": {
+      "type": "stdio",
+      "command": "uvx",
+      "args": [
+        "--from",
+        "git+https://github.com/Aliyuava/gods-eye-mcp",
+        "gods-eye-mcp"
+      ]
+    }
+  }
+}

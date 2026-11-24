@@ -1,0 +1,16 @@
+﻿{
+  "name": "gods-eye-solana-audit",
+  "description": "Real-time Solana token bundle detection, DEX liquidity telemetry, and deployer risk audits via x402.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Aliyuava",
+    "url": "https://github.com/Aliyuava"
+  },
+  "homepage": "https://godseyex402.dpdns.org",
+  "repository": "https://github.com/Aliyuava/gods-eye-mcp",
+  "license": "MIT",
+  "category": "crypto",
+  "keywords": ["solana", "x402", "agentcash", "defi", "security", "rugcheck"],
+  "skills": "skills/",
+  "mcpServers": "mcp.json"
+}
