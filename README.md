@@ -16,10 +16,10 @@ MCP server and portable agent skill for the **God's Eye x402 API** (`https://god
 ```bash
 npx agentcash@latest install -y
 npx skills add Aliyuava/gods-eye-mcp
+```
 
+## Run as Standalone MCP Server
+
+```bash
 uvx --from git+[https://github.com/Aliyuava/gods-eye-mcp](https://github.com/Aliyuava/gods-eye-mcp) gods-eye-mcp
-
-### Next Step: Launch Vector 2 (`Mercor` & `Micro1`)
-Once those two PayAPI forms are submitted and `README.md` is committed, **Vector 3 is 100% live and running passively**.
-
-Open **`[https://work.mercor.com](https://work.mercor.com)`** (or `mercor.com`) and **`[https://www.micro1.ai](https://www.micro1.ai)`** now to create your accounts. Tell me which role listing you select on Mercor first so we can prep your exact 20-minute AI interview responses before you start.
+```
